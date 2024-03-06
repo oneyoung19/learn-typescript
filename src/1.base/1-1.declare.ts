@@ -7,5 +7,9 @@ function getName(name:string):string {
   return name
 }
 
+// yarn add @types/node -D
+// https://www.zhihu.com/question/470016632/answer/1978489216
+console.log(age)
+
 // 报错
-let num:number = 'Hello world'
+// let num:number = 'Hello world'
