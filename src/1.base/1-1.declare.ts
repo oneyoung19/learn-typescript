@@ -13,3 +13,19 @@ console.log(age)
 
 // 报错
 // let num:number = 'Hello world'
+
+// const obj:object = {
+//   name: 'Tom'
+// }
+
+// console.log(obj.name)
+
+type Person = {
+  name?: string
+}
+
+const obj:Person = {
+  name: 'Tom'
+}
+
+console.log(obj.name)
