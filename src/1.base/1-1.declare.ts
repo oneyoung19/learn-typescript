@@ -29,3 +29,9 @@ const obj:Person = {
 }
 
 console.log(obj.name)
+
+const a:undefined = undefined
+console.log(a)
+
+const b:null = null
+console.log(b)
