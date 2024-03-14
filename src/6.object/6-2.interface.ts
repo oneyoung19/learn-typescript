@@ -12,8 +12,8 @@ const obj:MyObj = {
 
 // interface
 interface MyInterface {
-  x: number;
-  y: number;
+  x: number,
+  y: number
 }
 
 const myInterface:MyInterface = {
