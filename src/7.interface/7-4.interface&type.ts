@@ -15,7 +15,7 @@
 // 正确
 type MyStr = string & {
   type: 'new'
-};
+}
 
 // 报错
 interface MyStr extends string {
